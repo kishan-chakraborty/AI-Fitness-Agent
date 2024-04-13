@@ -1,0 +1,4 @@
+# Ignore virtual environment
+llamaindex-venv/
+requirements.txt
+.env
